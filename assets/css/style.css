@@ -1,0 +1,55 @@
+*{
+    font-family: 'Roboto', sans-serif;
+}
+
+.nav_bar{
+    background-color: #28A745;
+    height: 62px;
+}
+
+.nav_bar img{
+    width: 86px;
+}
+
+.promo{
+    width: 18rem;
+}
+
+.promo_title{
+    font-size: 20pt;
+    font-weight: 300;
+    color: #212529;
+}
+
+.promo_subtitle{
+    font-size: 16pt;
+    font-weight: 300;
+    color: #707070;
+    text-decoration: none;
+}
+
+.promo_direction{
+    font-size: 13pt;
+    font-weight: 300;
+    color: #707070;
+}
+
+.promo_pricing{
+    font-size: 20pt;
+    font-weight: 500;
+    color: #28A745;
+    text-decoration: none;
+}
+
+.card_container{
+    justify-content: space-between;
+}
+
+.form_container {
+    background-color: #28A745;
+}
+
+footer img{
+    width: 82px;
+    height: 24px;
+}
